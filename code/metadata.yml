@@ -1,0 +1,13 @@
+---
+:id: 55773455
+:submitters:
+- :name: Ruoyan Chen
+  :email: ruoyan85@stanford.edu
+- :name: Yiwen Liu
+  :email: ywliu24@stanford.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2020-11-17 06:37:32.210257000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2020-11-16 22:37:32.210257000 Z
+:status: processed
